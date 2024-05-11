@@ -1,12 +1,12 @@
 <p align="center">
-   <a href="https://github.com/LOSTHACKEROFC">
-   <img src="https://i.imgur.com/QlGoQsb.jpeg">
+   <a href="https://youtube.com/@ZeroxEagleOfficial">
+   <img src="blob:https://web.whatsapp.com/924a9a6e-4280-4c08-a651-dbb3866d2f4a">
 
 </p>
-<h1 align="center"> 𝐌𝐈𝐊𝐔-𝐕2 🌈❤️
+<h1 align="center"> ZEROX - MD 🌈❤️
 </h1> 
 <p align="center"> 
-  𝐇𝐄𝐋𝐋𝐎 𝐆𝐔𝐘𝐒 , 𝐈 𝐀𝐌 𝐌𝐈𝐊𝐔 𝐕2 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐇𝐈𝐑𝐀𝐆 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑. 𝐅𝐔𝐋𝐋𝐘 𝐁𝐀𝐒𝐄𝐃 𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 (𝐌𝐃)
+  𝐇𝐄𝐋𝐋𝐎 𝐆𝐔𝐘𝐒 , 𝐈 𝐀𝐌 ZEROX - MD 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 Anonymous Hacker. 𝐅𝐔𝐋𝐋𝐘 𝐁𝐀𝐒𝐄𝐃 𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 (𝐌𝐃)
 
 <p align="center">
   <a href="https://github.com/LOSTHACKEROFC/MIKU-V2/fork">
@@ -171,7 +171,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/LOSTHACKEROFC/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://www.youtube.com/@ZeroxEagleOfficial) me on YouTube to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
@@ -180,4 +180,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 -   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
 -   `CHIRAG YOUTUBER` team for [TINA](https://github.com/LOSTHACKEROFC/TINA).
 -   `INSTAGRAM` for [INSTA](https://instagram.com/chirag__bhatnagar).
--   `YOUTUBE` for [YOUTUBE](https://youtube.com/c/chiragyoutuber)
+-   `YOUTUBE` for [YOUTUBE](https://youtube.com/@ZeroxEagleOfficial)
