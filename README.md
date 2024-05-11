@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://youtube.com/@ZeroxEagleOfficial">
-   <img src="blob:https://web.whatsapp.com/924a9a6e-4280-4c08-a651-dbb3866d2f4a">
+   <img src="[blob:https://web.whatsapp.com/924a9a6e-4280-4c08-a651-dbb3866d2f4a](https://web.whatsapp.com/924a9a6e-4280-4c08-a651-dbb3866d2f4a)">
 
 </p>
 <h1 align="center"> ZEROX - MD 🌈❤️
